@@ -1,0 +1,11 @@
+C:\Users\natas\workspace\csharp\exercises\LINQ\AggOps\bin\Debug\netcoreapp2.1\AggOps.deps.json
+C:\Users\natas\workspace\csharp\exercises\LINQ\AggOps\bin\Debug\netcoreapp2.1\AggOps.runtimeconfig.json
+C:\Users\natas\workspace\csharp\exercises\LINQ\AggOps\bin\Debug\netcoreapp2.1\AggOps.runtimeconfig.dev.json
+C:\Users\natas\workspace\csharp\exercises\LINQ\AggOps\bin\Debug\netcoreapp2.1\AggOps.dll
+C:\Users\natas\workspace\csharp\exercises\LINQ\AggOps\bin\Debug\netcoreapp2.1\AggOps.pdb
+C:\Users\natas\workspace\csharp\exercises\LINQ\AggOps\obj\Debug\netcoreapp2.1\AggOps.csprojAssemblyReference.cache
+C:\Users\natas\workspace\csharp\exercises\LINQ\AggOps\obj\Debug\netcoreapp2.1\AggOps.csproj.CoreCompileInputs.cache
+C:\Users\natas\workspace\csharp\exercises\LINQ\AggOps\obj\Debug\netcoreapp2.1\AggOps.AssemblyInfoInputs.cache
+C:\Users\natas\workspace\csharp\exercises\LINQ\AggOps\obj\Debug\netcoreapp2.1\AggOps.AssemblyInfo.cs
+C:\Users\natas\workspace\csharp\exercises\LINQ\AggOps\obj\Debug\netcoreapp2.1\AggOps.dll
+C:\Users\natas\workspace\csharp\exercises\LINQ\AggOps\obj\Debug\netcoreapp2.1\AggOps.pdb
